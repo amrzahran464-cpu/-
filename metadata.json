@@ -1,0 +1,6 @@
+{
+  "name": "منصة مَسار | حجز المدرسين الخصوصيين",
+  "description": "صفحة من نحن الرسمية لمنصة مسار للتعليم الخصوصي لحجز الدروس أونلاين وحضوري مع نخبة من المدرسين المعتمدين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
